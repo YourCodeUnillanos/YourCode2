@@ -1,4 +1,4 @@
-# YourCode ![alt text]( "YourCode")
+# YourCode
 ## Descripción
 > YourCode es una aplicación web que permite a los estudiantes de Ingeniería de Sistemas de la Universidad de los Llanos consultar y publicar los códigos y proyectos sobre programación que realicen a lo largo de cada semestre.
 ## Alojamiento
