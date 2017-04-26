@@ -4,7 +4,7 @@
 ## Alojamiento
 >
 ## Documentación
->
+> [Documentación de la aplicación YourCode](https://github.com/YourCodeUnillanos/YourCode2/wiki)
 ## Integrantes
 | **Nombre**      | **Correo**       |
 | ------------- | -------------|
